@@ -1,0 +1,24 @@
+{
+  "name": "echarts-newbie",
+  "version": "0.0.1",
+  "description": "echarts demos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@second.github.com:nutsjian/echarts-newbie.git"
+  },
+  "keywords": [
+    "echarts",
+    "webpack",
+    "npm",
+    "bi"
+  ],
+  "author": "nutsjian",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.6.0"
+  }
+}
