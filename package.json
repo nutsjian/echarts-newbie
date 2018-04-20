@@ -4,6 +4,7 @@
   "description": "echarts demos",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack-dev-server --inline --progress",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,6 +20,7 @@
   "author": "nutsjian",
   "license": "MIT",
   "devDependencies": {
-    "webpack": "^4.6.0"
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.9.7"
   }
 }
